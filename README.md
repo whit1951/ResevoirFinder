@@ -8,9 +8,9 @@
 * Wildlife traits and disease reservoir status data collection is ongoing and will continuously be updated by members of the scientific community.
 * Current data  includes a list of most carnivore species (N = 277) and bat species from the Americas (N = 326) and associated life-history and ecological traits (obtained from the PanTHERIA database: Jones et al. 2009), and their associated rabies reservoir status (reservoir = 1, not a reservoir or no information on reservoir status = 0) (Worsley-Tonks et al. *PLOS Neglected Tropical Disease*).
 * Researchers are encouraged to deposit reservoir status data for any type of: 
-+ multi-host pathogen (e.g., Avian Influenza, Bovine Tuberculosis, Leptospira),
-+ host taxa (e.g., birds, rodents, ruminants), and 
-+ associated host traits.
+  + multi-host pathogen (e.g., Avian Influenza, Bovine Tuberculosis, Leptospira),
+  + host taxa (e.g., birds, rodents, ruminants), and 
+  + associated host traits.
 
 ## References
 * Jones, K.E., Bielby, J., Cardillo, M., Fritz, S.A., O'Dell, J., Orme, C.D.L., Safi, K., Sechrest, W., Boakes, E.H., Carbone, C. and Connolly, C., 2009. PanTHERIA: a species‐level database of life history, ecology, and geography of extant and recently extinct mammals: Ecological Archives E090‐184. Ecology, 90(9), pp.2648-2648.
