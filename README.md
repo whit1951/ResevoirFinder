@@ -6,9 +6,9 @@
 
 ## Data access and availability
 * Wildlife traits and disease reservoir status data collection is ongoing and will continuously be updated by members of the scientific community.
-* Current data  includes a list of most carnivore species (N = 277) and bat species from the Americas (N = 326) and associated life-history and ecological traits (obtained from the PanTHERIA database: Jones et al. 2009), and their associated rabies reservoir status (reservoir = 1, not a reservoir or no information on reservoir status = 0) (Worsley-Tonks et al. *BioArxiv*).
+* Current data  includes a list of most carnivore species (N = 277) and bat species from the Americas (N = 326) and associated life-history and ecological traits (obtained predominantly from the PanTHERIA database: Jones et al. 2009), and their associated rabies reservoir status based on expert opinon and literature search (reservoir = 1, not a reservoir or no information on reservoir status = 0) (Worsley-Tonks et al. *BioArxiv*).
 * Researchers are encouraged to deposit reservoir status data for any type of: 
-  + multi-host pathogen (e.g., Avian Influenza, Bovine Tuberculosis, Leptospira),
+  + multi-host pathogen (e.g., Rabies, Canine Distemper Virus, Avian Influenza, Bovine Tuberculosis, Leptospira),
   + host taxa (e.g., birds, rodents, ruminants), and 
   + associated host traits.
 
