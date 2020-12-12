@@ -1,5 +1,7 @@
 # ReservoirFinder
-`ReservoirFinder` is a centralized database of wildlife reservoirs for multi-host pathogens. This database originated from a study aiming to predict unknown carnivore and bat rabies reservoirs: Worsley-Tonks KEL, Escobar LE, Biek R, Castaneda M, Craft ME, Streicker DG, White LA, Fountain-Jones NM. Using host traits to predict reservoir host species of rabies virus. 
+`ReservoirFinder` is a centralized database of wildlife reservoirs for multi-host pathogens. This database originated from a study aiming to predict unknown carnivore and bat rabies reservoirs: 
+
+Worsley-Tonks KEL, Escobar LE, Biek R, Castaneda-Guzman M, Craft ME, Streicker DG, et al. (2020) Using host traits to predict reservoir host species of rabies virus. *PLoS Negl Trop Dis* 14(12):e0008940. https://doi.org/10.1371/journal.pntd.0008940
 
 ## Description
 `ReservoirFinder` is a centralized database that aims to provide a location for researchers to deposit data gathered on wildlife reservoir status (reservoir vs. not a reservoir) for any type of multi-host pathogen. Likewise, the database aims to act as a data source for researchers to ask questions related to the reservoir status of various wildlife species. 
